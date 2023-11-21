@@ -1,0 +1,7 @@
+Şuanki bölümümü neden seçtim? Aslında ben makine mühendisliği 1.sınıf öğrencisiydim ve bölüm derslerimden 
+birisi C++ tabanlı bir dersti. Bir şeyi programlamak her zaman istediğim bir şeydi ve bu dersin etkisiyle
+bu sahaya bir yönelimim oldu. Bilgisayar ve yazılım mühendisliği arasında kalmıştım dersleri arasında çok bir 
+farkta yoktu. Bilgisayar mühendisliği bölümünde ek olarak donanım hakkında verilen birkaç farklı ders vardı.
+
+Oyun programlamayı,hayatımızda karşımıza çıkan olayların fizik ve matematiğim iç içe olan ilişkisini kullanarak
+fizik motoru ya da herhangi bir şeyin nasıl sümüle edildiğini merak ediyorum ve gün geçtikçe bu merakım da artıyor.
